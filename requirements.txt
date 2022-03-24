@@ -1,0 +1,4 @@
+sentencepiece
+amrlib
+txtai
+deep_translator
